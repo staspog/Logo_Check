@@ -1,0 +1,6 @@
+torch==2.1.0
+transformers==4.29.2
+tensorflow==2.13.0
+scikit-learn==1.2.2
+numpy==1.24.2
+Pillow==9.4.0
