@@ -8,7 +8,6 @@ import torch
 BASE_DIR = os.getcwd()  # Текущая рабочая директория
 MODEL_DIR = os.path.join(BASE_DIR, "model")  # Папка для локальной модели
 
-# Проверяем, существует ли модель локально
 if not os.path.exists(MODEL_DIR):
     os.makedirs(MODEL_DIR)
 
