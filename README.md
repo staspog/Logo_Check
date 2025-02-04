@@ -9,8 +9,8 @@
 ## 🚀 Установка и запуск
 ### 1️⃣ Клонирование репозитория
 ```sh
-git clone https://github.com/yourrepo/logo-recognition.git
-cd logo-recognition
+git clone https://github.com/staspog/Logo_Check.git
+cd Logo_Check
 ```
 
 ### 2️⃣ Создание виртуального окружения (рекомендуется)
