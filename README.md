@@ -20,7 +20,7 @@ cd Logo_Check
 conda create -n tf_gpu_env python=3.9
 conda activate tf_gpu_env
 ```
-**Для venv (если используешь pip):**
+**Для venv (pip):**
 ```sh
 python -m venv venv
 source venv/bin/activate  # MacOS/Linux
